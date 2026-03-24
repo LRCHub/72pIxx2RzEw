@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "DEAREST DROP",
+  "base_artist": "田所あずさ",
+  "createdAt": "2026-03-24T07:27:40.626357Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "DEAREST DROP",
+      "artist": "田所あずさ",
+      "has_synced": true,
+      "path": "select/01_DEAREST_DROP_田所あずさ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "DEAREST DROP",
+      "artist": "田所あずさ",
+      "has_synced": true,
+      "path": "select/02_DEAREST_DROP_田所あずさ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "DEAREST DROP [instrumental]",
+      "artist": "田所あずさ",
+      "has_synced": true,
+      "path": "select/03_DEAREST_DROP_[instrumental]_田所あずさ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "DEAREST DROP",
+      "artist": "Selphius",
+      "has_synced": true,
+      "path": "select/04_DEAREST_DROP_Selphius.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "DEAREST DROP - TV size",
+      "artist": "田所あずさ",
+      "has_synced": true,
+      "path": "select/05_DEAREST_DROP_-_TV_size_田所あずさ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "DEAREST DROP",
+      "artist": "田所あずさ",
+      "has_synced": true,
+      "path": "select/06_DEAREST_DROP_田所あずさ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "DEAREST DROP",
+      "artist": "Tadokoro Azusa",
+      "has_synced": true,
+      "path": "select/07_DEAREST_DROP_Tadokoro_Azusa.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "DEAREST DROP (off vocal)",
+      "artist": "Tadokoro Azusa",
+      "has_synced": true,
+      "path": "select/08_DEAREST_DROP_(off_vocal)_Tadokoro_Azusa.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "DEAREST DROP (TVsize)",
+      "artist": "田所あずさ",
+      "has_synced": true,
+      "path": "select/09_DEAREST_DROP_(TVsize)_田所あずさ.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Dearest Drop (OP)",
+      "artist": "Mika Hirama",
+      "has_synced": true,
+      "path": "select/10_Dearest_Drop_(OP)_Mika_Hirama.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "DEAREST DROP (TV size)",
+      "artist": "Azusa Tadokoro",
+      "has_synced": true,
+      "path": "select/11_DEAREST_DROP_(TV_size)_Azusa_Tadokoro.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "DEAREST DROP",
+      "artist": "Tadokoro Azusa",
+      "has_synced": true,
+      "path": "select/12_DEAREST_DROP_Tadokoro_Azusa.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "DEAREST DROP (Off Vocal)",
+      "artist": "田所あずさ",
+      "has_synced": true,
+      "path": "select/13_DEAREST_DROP_(Off_Vocal)_田所あずさ.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "DEAREST DROP",
+      "artist": "田所あずさ",
+      "has_synced": true,
+      "path": "select/14_DEAREST_DROP_田所あずさ.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "DEAREST DROP(off vocal)",
+      "artist": "田所あずさ",
+      "has_synced": true,
+      "path": "select/15_DEAREST_DROP(off_vocal)_田所あずさ.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Dearest Drop",
+      "artist": "Tadakoro Azusa",
+      "has_synced": true,
+      "path": "select/16_Dearest_Drop_Tadakoro_Azusa.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "DEAREST DROP (TV size)",
+      "artist": "Tadokoro Azusa",
+      "has_synced": true,
+      "path": "select/17_DEAREST_DROP_(TV_size)_Tadokoro_Azusa.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "DEAREST DROP",
+      "artist": "田所あずさ",
+      "has_synced": false,
+      "path": "select/pl_01_DEAREST_DROP_田所あずさ.txt"
+    }
+  ]
+}
